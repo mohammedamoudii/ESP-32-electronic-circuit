@@ -34,4 +34,4 @@ void loop() {
 ```
 link 
 ## https://wokwi.com/projects/404201411446591489
-![Alt text](URL_to_your_image)
+![Alt text](ESP_32_EC.png)
